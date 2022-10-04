@@ -1020,7 +1020,7 @@ do
         local TextLabel = Library:CreateLabel({
             Size = UDim2.new(1, -4, 0, 15);
             TextSize = 14;
-            TextColor3 = Color3.fromRGB(222, 41, 60);
+            TextColor3 = Color3.fromRGB(222, 200, 0);
             Text = Text;
             TextWrapped = DoesWrap or false,
             RichText = true,
